@@ -1,0 +1,23 @@
+html{
+    overflow: hidden;
+}
+
+body{
+
+    font-family: 'Courier New' , Courier, monospace;
+    text-align: center;
+   
+}
+.background{
+    width: auto;
+     height: 100vh;
+    background-position: center;
+    background-image: url(snakee.png);
+}
+
+.score { 
+color: red;
+font-size: 30px;
+
+}
+
